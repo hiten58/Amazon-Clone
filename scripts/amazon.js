@@ -11,7 +11,7 @@ products.forEach((product) => {
     </div>
 
     <div class="product-name limit-text-to-2-lines">
-      ${product.name}
+      ${product.name} 
     </div>
 
     <div class="product-rating-container">
